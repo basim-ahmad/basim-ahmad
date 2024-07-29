@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AI, ML, React, researches, business analytics, and researched<br>I'm currently learning React, JS<br>Ask me about anything<br>I'm a good learner and passionate about it
+I'm currently working on AI, ML, React, researches, business analytics, Cyber Security, Networking, and many more<br>I'm currently learning React, JS<br>Ask me about anything<br>I'm a good learner and passionate about it
 
 
 ## 🌐 Socials:
